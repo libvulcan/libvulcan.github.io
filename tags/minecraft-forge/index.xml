@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>minecraft forge on Libvulcan</title>
+    <link>https://blog.libvulcan.com/tags/minecraft-forge/</link>
+    <description>Recent content in minecraft forge on Libvulcan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 May 2021 15:33:47 +0800</lastBuildDate><atom:link href="https://blog.libvulcan.com/tags/minecraft-forge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小题大做 - Minecraft Forge模组依赖关系分析</title>
+      <link>https://blog.libvulcan.com/posts/%E7%BA%AF%E6%8A%98%E8%85%BE-minecraft-forge%E6%A8%A1%E7%BB%84%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB%E5%88%86%E6%9E%90/</link>
+      <pubDate>Wed, 05 May 2021 15:33:47 +0800</pubDate>
+      
+      <guid>https://blog.libvulcan.com/posts/%E7%BA%AF%E6%8A%98%E8%85%BE-minecraft-forge%E6%A8%A1%E7%BB%84%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB%E5%88%86%E6%9E%90/</guid>
+      <description>Minecraft超大整合包mod数量过多，各种mod只见依赖关系交错繁杂，作为一个完全新手玩家，根本很难理清其中的关系，我通过分析minecraft forge模组加载器研究其中的加载逻辑，希望能够解决一些问题。</description>
+    </item>
+    
+  </channel>
+</rss>

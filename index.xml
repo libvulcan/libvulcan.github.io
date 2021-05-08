@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Libvulcan</title>
+    <link>https://blog.libvulcan.com/</link>
+    <description>Recent content on Libvulcan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 05 May 2021 15:33:47 +0800</lastBuildDate><atom:link href="https://blog.libvulcan.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>小题大做 - Minecraft Forge模组依赖关系分析</title>
+      <link>https://blog.libvulcan.com/posts/%E7%BA%AF%E6%8A%98%E8%85%BE-minecraft-forge%E6%A8%A1%E7%BB%84%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB%E5%88%86%E6%9E%90/</link>
+      <pubDate>Wed, 05 May 2021 15:33:47 +0800</pubDate>
+      
+      <guid>https://blog.libvulcan.com/posts/%E7%BA%AF%E6%8A%98%E8%85%BE-minecraft-forge%E6%A8%A1%E7%BB%84%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB%E5%88%86%E6%9E%90/</guid>
+      <description>Minecraft超大整合包mod数量过多，各种mod只见依赖关系交错繁杂，作为一个完全新手玩家，根本很难理清其中的关系，我通过分析minecraft forge模组加载器研究其中的加载逻辑，希望能够解决一些问题。</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>https://blog.libvulcan.com/about/</link>
+      <pubDate>Wed, 05 May 2021 15:25:50 +0800</pubDate>
+      
+      <guid>https://blog.libvulcan.com/about/</guid>
+      <description>为什么会有blog.libvulcan.com ？  对于知识记录的载体，我更偏向于长期使用OneNote和Notion这类平台，这类平台往往功能十分强大，能够轻松的进行团队协作和内容分享。但blog的意义有些不同，它多了一种不同的创作的感觉，你就像真正的作家将你的作品发布，也许永远无人问津，“销量”惨淡；也许你绞尽脑汁，还是没法起笔下一部作品；也许很快你就淡忘自己还是一位“作家”，所有的这些，对于blog和你来说都无关紧要。 blog.libvulcan.com为何存在？无关自由、无关意义、无关分享，只是因为它在域名商被我注册了。  为什么是Github Page ？  个人接触和使用blog实际上有一段时间了，从个人经验上，整体分为以下几类：  自建服务器  Flask + Layui 搭建 Gin + Vue 搭建 Hexo、Hugo 静态内容生成框架   服务商托管  Github Page Gitee Page Coding Page   博客平台  CSDN 博客园 简书     造轮子（非必要的）、交给服务商、交给充斥繁杂推荐的平台这三类对比下来，对于blog.libvulcan.com来说，毫无疑问我选择服务商托管。  关于我 brand new
+关于博客内容、技术、游戏、服务器等问题请发邮件联系我，需要进一步交流可以留下你的telegram、discord、linkedin、wechat或QQ。
+联系邮箱：点我 &amp;raquo;</description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
